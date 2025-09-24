@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💤 Sleep Tracker Next
 
-## Getting Started
+![Sleep Tracker]
 
-First, run the development server:
+Track and improve your sleep habits with **Sleep Tracker Next** – a modern, easy-to-use web application built with Next.js!
+
+---
+
+## 🚀 Features
+
+- 📈 **Sleep Logging:** Easily record your sleep and wake times.
+- 🔔 **Reminders:** Set custom reminders for bedtime.
+- 📊 **Analytics:** Visualize your sleep patterns with interactive charts.
+- 🌓 **Dark Mode:** Eye-friendly interface for night use.
+- 💾 **Secure Storage:** Your data stays private and secure.
+- ✅ **Responsive Design:** Works beautifully on any device.
+
+---
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/) – React Framework
+- [Tailwind CSS](https://tailwindcss.com/) – Styling
+- [MongoDB](https://www.mongodb.com/) – Database
+- [Chart.js](https://www.chartjs.org/) – Charts & Analytics
+
+---
+
+## 📸 Screenshots
+
+> *Include screenshots of your app interface here!*
+
+---
+
+## ⚡ Getting Started
 
 ```bash
+git clone https://github.com/Abhishekkmsharmawebdev/sleep-Tracker-Next.git
+cd sleep-Tracker-Next
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Live Demo
 
-## Learn More
+[Demo Link Here](https://sleep-tracker-next-five.vercel.app/) <!-- Replace with your deployed URL if available -->
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contributions are welcome! Please open an issue or submit a pull request.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.
+
+---
+
+> **Made with ❤️ by [Abhishekkmsharmawebdev](https://github.com/Abhishekkmsharmawebdev)**
